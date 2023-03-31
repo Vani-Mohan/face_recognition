@@ -25,6 +25,7 @@ pip install numpy
 
 To use the face recognition script, you'll need to prepare a dataset of faces that the model can be trained on. The dataset should be organized in the following format:
 
+```
 dataset/
     person1/
         image1.jpg
@@ -35,3 +36,4 @@ dataset/
         image2.jpg
         ...
     ...
+```
