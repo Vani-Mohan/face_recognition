@@ -7,4 +7,7 @@ This is a face recognition project that uses OpenCV and machine learning algorit
 
 To use this project, you'll need to install OpenCV and Python 3 on your system. You can install OpenCV using pip:
 
-''' pip install opencv-python '''
+```
+pip install opencv-python
+
+```
