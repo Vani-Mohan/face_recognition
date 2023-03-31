@@ -37,3 +37,21 @@ dataset/
         ...
     ...
 ```
+You can create your own dataset using the file "create_dataset.py". The script will automatically create a folder with your name and capture 50 photos of you for the dataset.
+
+
+
+Once you've prepared your dataset, you can train the face recognition model using the file "training.py"
+
+This will generate a trained face recognition model and save it to the directory.
+
+To run the real-time face recognition application, you can use the file "test.py"
+
+
+This will open a video stream and display recognized faces in real-time.
+
+
+
+
+
+
